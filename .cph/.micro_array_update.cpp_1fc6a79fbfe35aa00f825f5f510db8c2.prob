@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: micro_array_update","srcPath":"d:\\CP_coding_blocks\\micro_array_update.cpp","tests":[{"id":1597980082462,"input":"2\n3 4\n1 2 5\n3 2\n2 5 5","output":"3\n0"}],"timeLimit":3000,"url":"d:\\CP_coding_blocks\\micro_array_update.cpp"}

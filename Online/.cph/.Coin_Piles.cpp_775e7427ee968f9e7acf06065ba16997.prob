@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: Coin_Piles","srcPath":"d:\\CP_coding_blocks\\Online\\Coin_Piles.cpp","tests":[{"id":1597678543968,"input":"3\n2 1\n2 2\n3 3","output":"YES\nNO\nYES"}],"timeLimit":3000,"url":"d:\\CP_coding_blocks\\Online\\Coin_Piles.cpp"}

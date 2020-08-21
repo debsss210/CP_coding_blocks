@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: Hamiltonian and Lagrangian","srcPath":"d:\\CP_coding_blocks\\Online\\Hamiltonian and Lagrangian.cpp","tests":[{"id":1597982419299,"input":"6\n16 17 4 3 5 2","output":"17 5 2"}],"timeLimit":3000,"url":"d:\\CP_coding_blocks\\Online\\Hamiltonian and Lagrangian.cpp"}
